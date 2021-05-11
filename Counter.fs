@@ -42,4 +42,4 @@ module Counter =
                     TextBlock.text (string state.count)
                 ]
             ]
-        ]       
+        ]
